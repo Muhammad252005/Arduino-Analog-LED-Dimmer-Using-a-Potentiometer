@@ -58,7 +58,7 @@ The circuit diagram illustrating these connections is included in this repositor
 
 ## Program Source
 
-The Arduino sketch for this project can be found inside the **code/** directory of this repository.
+The Arduino sketch for this project can be found inside the [click for code](code/led_light_potentiometer_controlled_project.ino) directory of this repository.
 
 ---
 
