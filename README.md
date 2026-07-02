@@ -52,7 +52,7 @@ The circuit consists of a potentiometer connected to an analog input, an LED con
 
 The circuit diagram illustrating these connections is included in this repository.
 
-![circuit_diagram]()
+![circuit_diagram](images/circuit_diagram1.png)
 
 ---
 
